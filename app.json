@@ -26,18 +26,6 @@
             "description":"Get from BotFather",
             "value":""
         },
-        "AUTH_USERS":{
-            "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-            "value":""
-        },
-        "GROUPS":{
-            "description":"Groups where to work",
-            "value":""
-        },
-        "HTML_GROUPS":{
-            "description":"Group ID if you would like to add the bot in group.",
-            "value":""
-        },
         "THUMB":{
             "description":"(Thumbnail) Telegraph link or leave it default(Locky Lodu)",
             "value":"thumb.jpg",
