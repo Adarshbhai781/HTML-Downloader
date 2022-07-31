@@ -9,10 +9,10 @@ Credit: Darkprince(https://github.com/DaruaraFriends)
 
 
 ### Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoolZeroHero/CareerwillHTML/blob/main/VideoDownloaderBot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kali-linuux/HTML-Downloader/blob/main/VideoDownloaderBot.ipynb)
 ### Heroku
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CoolZeroHero/CareerwillHTML)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kali-linuux/HTML-Downloader)
 
 
