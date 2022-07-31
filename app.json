@@ -26,11 +26,6 @@
             "description":"Get from BotFather",
             "value":""
         },
-        "THUMB":{
-            "description":"(Thumbnail) Telegraph link or leave it default(Locky Lodu)",
-            "value":"thumb.jpg",
-            "required":false
-        },
         "NAME":{
             "description":"Credit",
             "value":"I want no credit."
